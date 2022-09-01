@@ -1,10 +1,11 @@
 {
   "name": "assignment-01-webserver",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "webserver for comp 426",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js --port=5555"
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
