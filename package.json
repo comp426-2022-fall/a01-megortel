@@ -4,12 +4,11 @@
   "description": "webserver for comp 426",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js --port=5555",
-    "start": "node server.js"
+    "test": "node server.js --port=5555"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/comp426-2022-fall/a01-megortel.git"
+    "url": "git+https://github.com/comp426-2022-fall/a01-megortel.git"
   },
   "author": "megortel",
   "license": "GPL-3.0-or-later",
